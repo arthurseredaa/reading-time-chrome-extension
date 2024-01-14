@@ -1,0 +1,6 @@
+devsite-book-nav,
+.devsite-sidebar,
+.devsite-header--inner,
+button.devsite-book-nav-toggle {
+  display: none;
+}
